@@ -10,12 +10,13 @@ body {
     font-family: consolas;
 }
 
-a:link, a:visited {
-    color: #ff0099;
+a:link,
+a:visited {
+    color: #0d00ff;
 }
-  
+
 a:hover {
-    color: #fb3eaf;
+    color: #3e8afb;
     font-weight: bold;
 }
 
@@ -71,7 +72,7 @@ h1 {
 }
 
 h2 {
-    color: #ff0099;
+    color: #0400ff;
     font-weight: normal;
     margin: 0px;
     font-family: 'Roboto Slab', consolas;
