@@ -10,9 +10,16 @@ body {
     font-family: consolas;
 }
 
+#menu a:link,
+#menu a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 a:link,
 a:visited {
-    color: #0d00ff;
+    color: #0004ff;
+    text-decoration: none;
 }
 
 a:hover {
